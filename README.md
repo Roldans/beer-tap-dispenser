@@ -46,7 +46,7 @@ To run the project locally, use the following command:
 ´´´
 dotnet run
 ´´´
-The application will start, and you should see a message indicating that the server is running on a specific port (e.g., https://localhost:5001).
+The application will start, and you should see a message indicating that the server is running on a specific port (e.g., https://localhost:7012).
 
 ### 7. Access the application
-Open your web browser and navigate to the URL where the application is running (e.g., https://localhost:5001). You should see the home page of the application.
+Open your web browser and navigate to the URL where the application is running with the swagger path https://localhost:7012/swagger/index.html. You should see swagger menue of the app
