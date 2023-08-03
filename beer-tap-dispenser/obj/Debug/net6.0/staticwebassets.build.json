@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y2QIU/oWqZcNrSei6rLEhHwP0b5elQtDXbVpDG+uVc8=",
+  "Source": "beer-tap-dispenser",
+  "BasePath": "_content/beer-tap-dispenser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
